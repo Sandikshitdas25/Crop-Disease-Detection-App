@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.virtual_documents/
+getdiseasename/
+images/
+frontend/assets
+frontend/.expo
+frontend/node_modules
+
